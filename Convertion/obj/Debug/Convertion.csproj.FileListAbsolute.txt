@@ -1,0 +1,8 @@
+C:\AppsDev VS Studio\Convertion\bin\Debug\Convertion.exe.config
+C:\AppsDev VS Studio\Convertion\bin\Debug\Convertion.exe
+C:\AppsDev VS Studio\Convertion\bin\Debug\Convertion.pdb
+C:\AppsDev VS Studio\Convertion\obj\Debug\Convertion.csproj.AssemblyReference.cache
+C:\AppsDev VS Studio\Convertion\obj\Debug\Convertion.csproj.SuggestedBindingRedirects.cache
+C:\AppsDev VS Studio\Convertion\obj\Debug\Convertion.csproj.CoreCompileInputs.cache
+C:\AppsDev VS Studio\Convertion\obj\Debug\Convertion.exe
+C:\AppsDev VS Studio\Convertion\obj\Debug\Convertion.pdb
